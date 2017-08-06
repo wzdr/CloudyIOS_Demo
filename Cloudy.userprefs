@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{E46533A4-03D0-4BC9-A14D-3236D9C1F070}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cloudy/Info.plist">
+    <Files>
+      <File FileName="Cloudy/View Controllers/Root View Controller/RootViewController.cs" Line="128" Column="1" />
+      <File FileName="Cloudy/Application Delegate/AppDelegate.cs" Line="16" Column="56" />
+      <File FileName="Cloudy/View Controllers/Locations View Controller/Child View Controllers/AddLocationViewController.cs" Line="55" Column="29" />
+      <File FileName="Cloudy/Storyboards/Main.storyboard" />
+      <File FileName="Cloudy/Extensions/UserSettings.cs" Line="75" Column="13" />
+      <File FileName="Cloudy/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Cloudy PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.34651cc714720a314b712e9191299a39f8f9174a" />
+</Properties>
